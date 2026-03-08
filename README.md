@@ -4,18 +4,21 @@ Projeto inspirado no Linktree, desenvolvido para centralizar links importantes e
 
 A aplicação apresenta um layout moderno com tema escuro e fundo animado de estrelas, permitindo que usuários compartilhem facilmente suas redes sociais, plataformas e contatos em um único local.
 
-📷 Preview
+
+##📷 Preview
 
 <img width="1364" height="636" alt="image" src="https://github.com/user-attachments/assets/aefc59b6-cb28-4566-b06d-79ebf28b2cdb" />
 <img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/f331db7d-34ef-417d-b6eb-e72503d26992" />
+
 
 ## 🌐 Live Demo
 
 Você pode acessar o projeto funcionando no link abaixo:
 
-[![Ver Projeto](https://linktree-giraldidev.vercel.app/)
+[![Demo](https://linktree-giraldidev.vercel.app/)
 
-🚀 Funcionalidades
+
+## 🚀 Funcionalidades
 
 Página única para centralizar links
 
@@ -29,13 +32,15 @@ Design responsivo
 
 Botões interativos com links externos
 
-🛠️ Tecnologias Utilizadas
+
+## 🛠️ Tecnologias Utilizadas
 
 HTML5
 
 CSS3
 
-🔗 Links Disponíveis
+
+## 🔗 Links Disponíveis
 
 A página reúne links para plataformas como:
 
@@ -51,11 +56,11 @@ Twitter
 
 Spotify
 
-📦 Como usar o projeto
+## 📦 Como usar o projeto
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/seu-repositorio.git
+git clone https://github.com/giraldidev/Linktree-giraldidev.git
 
 Acesse a pasta do projeto:
 
@@ -63,13 +68,16 @@ cd seu-repositorio
 
 Abra o arquivo index.html no navegador.
 
-🎯 Objetivo do Projeto
+
+## 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido para praticar conceitos de desenvolvimento web, incluindo estruturação de páginas, estilização com CSS e organização de elementos visuais em uma interface simples e funcional.
 
-👨‍💻 Autor
+
+## 👨‍💻 Autor
 
 Desenvolvido por Vinicius Giraldi
+
 
 ## 🤝 Conecte-se comigo
 
