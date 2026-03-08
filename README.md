@@ -5,7 +5,7 @@ Projeto inspirado no Linktree, desenvolvido para centralizar links importantes e
 A aplicação apresenta um layout moderno com tema escuro e fundo animado de estrelas, permitindo que usuários compartilhem facilmente suas redes sociais, plataformas e contatos em um único local.
 
 
-##📷 Preview
+## 📷 Preview
 
 <img width="1364" height="636" alt="image" src="https://github.com/user-attachments/assets/aefc59b6-cb28-4566-b06d-79ebf28b2cdb" />
 <img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/f331db7d-34ef-417d-b6eb-e72503d26992" />
@@ -15,7 +15,7 @@ A aplicação apresenta um layout moderno com tema escuro e fundo animado de est
 
 Você pode acessar o projeto funcionando no link abaixo:
 
-[![Demo](https://linktree-giraldidev.vercel.app/)
+[[Demo](https://linktree-giraldidev.vercel.app/)
 
 
 ## 🚀 Funcionalidades
