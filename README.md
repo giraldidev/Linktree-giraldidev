@@ -15,7 +15,7 @@ A aplicação apresenta um layout moderno com tema escuro e fundo animado de est
 
 Você pode acessar o projeto funcionando no link abaixo:
 
-[[Demo](https://linktree-giraldidev.vercel.app/)
+[Online 💻](https://linktree-giraldidev.vercel.app/)
 
 
 ## 🚀 Funcionalidades
