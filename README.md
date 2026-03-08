@@ -86,11 +86,9 @@ Se você quiser acompanhar meus projetos ou entrar em contato, pode me encontrar
 <p align="left">
 
 <a href="https://www.linkedin.com/in/vinicius-giraldi-8460b53a5/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/vgiraldii/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@seuusuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
