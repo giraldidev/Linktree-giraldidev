@@ -89,7 +89,7 @@ Desenvolvido por Vinicius Giraldi
 </a>
 
 <a href="https://www.instagram.com/giraldidev/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@vgiraldii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-@giraldidev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
