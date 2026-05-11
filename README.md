@@ -7,8 +7,9 @@ A aplicação apresenta um layout moderno com tema escuro e fundo animado de est
 
 ## 📷 Preview
 
-<img width="1364" height="636" alt="image" src="https://github.com/user-attachments/assets/aefc59b6-cb28-4566-b06d-79ebf28b2cdb" />
-<img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/f331db7d-34ef-417d-b6eb-e72503d26992" />
+
+<img width="983" height="545" alt="image" src="https://github.com/user-attachments/assets/28f4e5a5-785c-4ab4-b30c-dad20bec03fa" />
+<img width="1282" height="813" alt="image" src="https://github.com/user-attachments/assets/ea122e1c-c01f-41ff-a936-c76d67b1d509" />
 
 
 ## 🌐 Live Demo
@@ -87,7 +88,7 @@ Desenvolvido por Vinicius Giraldi
 <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Giraldi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/vgiraldii/" target="_blank">
+<a href="https://www.instagram.com/giraldidev/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-@vgiraldii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
