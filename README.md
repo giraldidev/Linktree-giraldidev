@@ -8,8 +8,8 @@ A aplicação apresenta um layout moderno com tema escuro e fundo animado de est
 ## 📷 Preview
 
 
-<img width="916" height="554" alt="image" src="https://github.com/user-attachments/assets/df08b2bb-0baa-4f64-85b0-40f90bfd9b3c" />
-<img width="920" height="859" alt="image" src="https://github.com/user-attachments/assets/0a629134-76d8-4e3f-828e-2b9ddd9311ef" />
+<img width="1899" height="941" alt="image" src="https://github.com/user-attachments/assets/f7185dc7-aaf5-4323-add0-5d518f468175" />
+<img width="1802" height="833" alt="image" src="https://github.com/user-attachments/assets/a5521fbd-0956-4d38-96eb-9e7e61b95217" />
 
 
 ## 🌐 Live Demo
@@ -49,13 +49,10 @@ GitHub
 
 LinkedIn
 
-Steam
-
 Instagram
 
-Twitter
+Whatsapp
 
-Spotify
 
 ## 📦 Como usar o projeto
 
